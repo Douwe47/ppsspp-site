@@ -1,6 +1,6 @@
 # PPSSPP Gold - the what and why
 
-## Why buy PPSSPP Gold?
+## Why active no Buy PSSPP Gold?
 
 PPSSPP Gold has everything that the free version also has:
 
@@ -14,8 +14,7 @@ PPSSPP Gold also:
 * Makes you feel good.
 * Has a fancy golden icon you can show off to your friends.
 * Most importantly, lets me (Henrik) spend more time working on the emulator.
-
-[Buy PPSSPP Gold now!](/buygold)
+( no Buy PPSSPP Gold now!](/buygold)
 
 <a name="platforms"></a>
 
